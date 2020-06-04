@@ -1,0 +1,34 @@
+{
+  "customers": [
+    {
+      "id": "1",
+      "name": "john doe",
+      "email": "jdoe@gmail.com",
+      "age": 35
+    },
+    {
+      "id": "2",
+      "name": "steve smith",
+      "email": "ssmith@gmail.com",
+      "age": 48
+    },
+    {
+      "id": "3",
+      "name": "sara walsch",
+      "email": "swalsch@gmail.com",
+      "age": 32
+    },
+    {
+      "id": "5",
+      "name": "james mcmann",
+      "email": "jmcmann@gmail.com",
+      "age": 39
+    },
+    {
+      "name": "harry white",
+      "email": "hwhite@gmail.com",
+      "age": 34,
+      "id": "c0TESTv"
+    }
+  ]
+}
